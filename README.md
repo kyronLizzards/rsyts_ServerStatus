@@ -3,7 +3,7 @@
 1. Crea una webhook en Discord para recibir las actualizaciones. Para ello, ve a la configuración del canal de Discord donde deseas recibir las actualizaciones, en el apartado de Integraciones crea una nueva webhook. Copia el URL de la webhook, ya que lo necesitarás más adelante.
 2. Descarga los archivos .lua
 3. Coloca ambos archivos en la carpeta /resources/rsyts_ServerStatus/ del servidor de FiveM.
-4. Abre el archivo rsyts_message.lua y reemplaza "webhook URL" con el URL de la webhook que creaste anteriormente.
+4. Abre el archivo rsyts_message.lua y reemplaza "TU URL DE WEBHOOK" con el URL de la webhook que creaste anteriormente.
 5. Reinicia el servidor de FiveM.
 
 Ahora deberías recibir actualizaciones de Discord cada minuto con información de tu servidor, y también recibirás un mensaje cada vez que el servidor se inicie, cierre o reinicie.
